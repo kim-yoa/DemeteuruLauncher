@@ -1,5 +1,5 @@
 {
-  "name": "DemetruLauncher",
+  "name": "DemeteuruLauncher",
   "version": "1.0.1",
   "productName": "데메트루 런쳐",
   "description": "데메트루 런쳐",
@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "homepage": "https://chzzk.naver.com/a60a100f92b18c63eb7d238aec8d29a0",
   "bugs": {
-    "url": "https://github.com/kim-yoa/DemetruLauncher/issues"
+    "url": "https://github.com/kim-yoa/DemeteuruLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kim-yoa/DemetruLauncher.git"
+    "url": "git+https://github.com/kim-yoa/DemeteuruLauncher.git"
   }
 }
