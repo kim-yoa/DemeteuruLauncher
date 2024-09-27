@@ -1,5 +1,5 @@
-appId: 'Demeteurulauncher'
-productName: 'Demeteuru Launcher'
+appId: '데메트루 런쳐'
+productName: '데메트루 런쳐'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2024 Daniel Scalzi'
@@ -41,8 +41,8 @@ linux:
   target: 'AppImage'
   maintainer: 'YOA'
   vendor: 'YOA'
-  synopsis: 'Denetru Launcher'
-  description: 'Denetru Launcher'
+  synopsis: '데메트루 런쳐'
+  description: '데메트루 런쳐'
   category: 'Game'
 
 
